@@ -47,3 +47,6 @@ betterttv.net
 7tv.io
 localizeapi.com
 klipy.com
+moddb.com
+stalker-gamma.com
+stalkergamma.com
